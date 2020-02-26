@@ -16,7 +16,7 @@ public class Splash extends AppCompatActivity {
             public void run() {
                 super.run();
                 try {
-                    sleep(2000);
+                    sleep(3000);
                 }catch (InterruptedException e){
 
                 }finally {

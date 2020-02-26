@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">CongoTranslation</string>
+    <string name="app_name">Congo Translation</string>
+    <string name="powered_by">esisalama.org</string>
+    <string name="powered_in">Julliet 2020</string>
 </resources>
